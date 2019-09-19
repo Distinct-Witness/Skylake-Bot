@@ -1,0 +1,6 @@
+echo "# Skylake-Bot" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Distinct-Witness/Skylake-Bot.git
+git push -u origin master
